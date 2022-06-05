@@ -3,7 +3,7 @@ ___
 
 ### _Документация:_
 
-- ***[Тест-кейсы](https://docs.google.com/spreadsheets/d/1q1rt0_fc9jVanIkVUNcToSZZ8SQpHmPB1XepoZfLjao/edit#gid=1888082110)***
+- ***[Тест-кейсы](https://docs.google.com/spreadsheets/d/1IqJ4-nQNV-BpbDy3peAJ39q7XD8Fau9OZGz8RfKhuUY/edit#gid=1834004245)***
 - ***[Баг-репорты](https://github.com/ValeriyaPolukhina/Task_test_1/issues)***
 ___
 
